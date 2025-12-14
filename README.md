@@ -50,3 +50,6 @@ Notas:
 py -m pip install -e .
 ```
 Ejecuta ese comando dentro de `mini_turtle_task` si deseas instalar el paquete editable.
+
+## Imagenes
+<img width="1034" height="639" alt="image" src="https://github.com/user-attachments/assets/c6db6402-301f-4c2a-bed1-450a6c214015" />
