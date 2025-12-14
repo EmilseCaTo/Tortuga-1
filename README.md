@@ -30,7 +30,7 @@ reiniciar()
 ```
 
 ## Cómo ejecutarlo
-1) Abre una consola en `C:\Users\jeiso\OneDrive\Documents\Tarea`.
+1) Abre una consola en `C:\Users\Emilse \OneDrive\Documents\Tarea`.
 2) Usa el lanzador de Python en Windows:
 ```
 py -3 main.py
